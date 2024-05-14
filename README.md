@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [EchoRP](https://discord.gg/echorp)
 - You can reach me by email or Discord @ steadyspring
 
 
